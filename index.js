@@ -417,7 +417,7 @@ setInterval(()=>{
         called=false;
     }
     pretime=player.currentTime;
-},100)
+},102)
 
 
 //Notifications
